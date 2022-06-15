@@ -37,4 +37,3 @@ Alternatively, you can take a look at the requirements.txt file and install what
 Note, I'm using VS Code with the ipykernel (Jupyter Notebook) capability to run in a notebook like experience.  You can certainly also run this without this.
 
 
-Additional instructions on my [YouTube channel](https://www.youtube.com/c/ErolAspromatis)
